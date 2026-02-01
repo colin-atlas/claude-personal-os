@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+Icon?
+Icon
+
+# Cowork temp files
+.tmp.drivedownload
+.tmp.driveupload
