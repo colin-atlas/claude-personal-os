@@ -25,7 +25,7 @@ This is a "second brain" and personal operating system that helps you:
 ---
 
 ```
-I want to set up the Personal Operating System from this GitHub repo: https://github.com/colin-atlas/personal-os-cowork
+I want to set up the Personal Operating System from this GitHub repo: https://github.com/colin-atlas/claude-personal-os
 
 Please:
 1. Create the folder structure (inbox, outbox, outbox/SOD, outbox/weekly, outbox/drafts, logs, skills, second-brain)
