@@ -19,6 +19,7 @@
 - **Responsibilities**: [What they own]
 - **Current Focus**: [Their key priorities right now]
 - **1on1 Cadence**: [Day of week]
+- **1on1 Agenda Doc**: [Link to shared Google Doc, Notion page, or other running agenda]
 - **Notes**: [Anything else relevant]
 
 ### [Direct Report 2 Name]
@@ -26,6 +27,7 @@
 - **Responsibilities**: [What they own]
 - **Current Focus**: [Their key priorities right now]
 - **1on1 Cadence**: [Day of week]
+- **1on1 Agenda Doc**: [Link to shared Google Doc, Notion page, or other running agenda]
 - **Notes**: [Anything else relevant]
 
 ---
