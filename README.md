@@ -146,3 +146,9 @@ Claude Cowork works from a local folder on your computer. If you want to share y
 2. Move your `claude-cowork` folder into your Google Drive folder (or create it there)
 3. In Google Drive, right-click the folder → Share → Add your EA's email
 4. Select the synced folder when starting Claude Cowork
+
+## Credits
+
+Built by the team at [Atlas Assistants](https://www.atlasassistants.com) — we match executives with elite Executive Assistants trained on AI tools and systems to help you operate more in your zone of genius.
+
+For more tips on leveraging your EA and AI: [Subscribe to our newsletter](https://atlas-executive.beehiiv.com/)
