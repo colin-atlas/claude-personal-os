@@ -28,32 +28,22 @@ This is a "second brain" and personal operating system that helps you:
 I want to set up the Personal Operating System from this GitHub repo: https://github.com/colin-atlas/claude-personal-os
 
 Please:
-1. Create the folder structure (inbox, outbox, outbox/SOD, outbox/weekly, outbox/drafts, logs, skills, second-brain)
-2. Fetch and save all the template files from the repo:
+1. Clone the repo using git, then copy all the template files directly into the ROOT of my currently selected workspace folder (not into a subfolder — build the structure at the top level of my folder).
+2. Create any missing folders: inbox, outbox, outbox/SOD, outbox/weekly, outbox/drafts, logs
+3. The files to copy are:
    - CLAUDE.md (root)
    - schedule.md (root)
-   - skills/sod.md
-   - skills/eod.md
-   - skills/meeting-prep.md
-   - skills/debrief.md
-   - skills/weekly-review.md
-   - skills/draft-message.md
-   - skills/build-skill.md
-   - skills/1on1-prep.md
-   - second-brain/profile.md
-   - second-brain/company.md
-   - second-brain/team.md
-   - second-brain/projects.md
-   - second-brain/decisions.md
+   - skills/ (entire folder)
+   - second-brain/ (entire folder)
 
-3. After creating the files, ask me questions to personalize:
+4. After setting up the files, ask me questions to personalize:
    - Profile.md — my goals, work style, zone of genius
    - Company.md — mission, values, objectives
    - Team.md — who I work with (EA, direct reports, advisors)
    - Projects.md — what I'm working on
    - Schedule.md — my weekly meeting rhythms
 
-4. Show me the folder structure when done and explain how to use it.
+5. Show me the folder structure when done and explain how to use it.
 ```
 
 ---
