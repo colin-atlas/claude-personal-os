@@ -39,6 +39,7 @@ Please:
    - skills/weekly-review.md
    - skills/draft-message.md
    - skills/build-skill.md
+   - skills/1on1-prep.md
    - second-brain/profile.md
    - second-brain/company.md
    - second-brain/team.md
@@ -72,6 +73,7 @@ Please:
 | "weekly review" | Friday planning — wins, patterns, next week priorities |
 | "wrap up" | End of day — log progress, prep tomorrow |
 | "build a skill" | Create a new custom workflow for any repeating task |
+| "prep my 1:1 with [name]" | 1:1 meeting preparation — review agenda, action items, context |
 
 ## File Structure
 
@@ -92,7 +94,8 @@ claude-cowork/
 │   ├── debrief.md
 │   ├── weekly-review.md
 │   ├── draft-message.md
-│   └── build-skill.md     ← Create new skills
+│   ├── build-skill.md     ← Create new skills
+│   └── 1on1-prep.md       ← 1:1 meeting prep
 ├── inbox/                 ← Drop files for processing
 ├── outbox/
 │   ├── SOD/               ← Daily briefings

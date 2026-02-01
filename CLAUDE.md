@@ -33,6 +33,7 @@ Do not paraphrase or summarize the workflow. Follow the script exactly, completi
 | "weekly review" / "plan next week" | `skills/weekly-review.md` | Friday planning |
 | "draft a message to [person]" / "write an update" | `skills/draft-message.md` | Communication drafting |
 | "build a skill" / "new skill" / "create skill" | `skills/build-skill.md` | Create custom workflow |
+| "prep my 1:1 with [name]" / "1:1 prep" / "[name] 1:1" | `skills/1on1-prep.md` | 1:1 meeting preparation |
 
 ---
 
@@ -79,7 +80,8 @@ claude-cowork/
 │   ├── debrief.md
 │   ├── weekly-review.md
 │   ├── draft-message.md
-│   └── build-skill.md     ← Create new skills
+│   ├── build-skill.md     ← Create new skills
+│   └── 1on1-prep.md       ← 1:1 meeting prep
 ├── inbox/                 ← Drop files for processing
 ├── outbox/
 │   ├── SOD/               ← Daily briefings
